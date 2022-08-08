@@ -1,0 +1,23 @@
+pre: 4;  nStr: 419605557;  index: 1; resNum: 0
+pre: 1;  nStr: 19605557;  index: 1; resNum: 0
+pre: 9;  nStr: 9605557;  index: 1; resNum: 0
+pre: 6;  nStr: 605557;  index: 1; resNum: 0
+pre: 0;  nStr: 05557;  index: 1; resNum: 0
+pre: 5;  nStr: 5557;  index: 1; resNum: 0
+pre: 5;  nStr: 557;  index: 1; resNum: 0
+pre: 5;  nStr: 57;  index: 1; resNum: 0
+
+pre: 05;  nStr: 05557;  index: 2; resNum: 1
+pre: 5;  nStr: 557;  index: 1; resNum: 1
+pre: 5;  nStr: 57;  index: 1; resNum: 1
+
+pre: 19;  nStr: 19605557;  index: 2; resNum: 2
+pre: 6;  nStr: 605557;  index: 1; resNum: 2
+pre: 0;  nStr: 05557;  index: 1; resNum: 2
+pre: 5;  nStr: 5557;  index: 1; resNum: 2
+pre: 5;  nStr: 557;  index: 1; resNum: 2
+pre: 5;  nStr: 57;  index: 1; resNum: 2
+
+pre: 05;  nStr: 05557;  index: 2; resNum: 3
+pre: 5;  nStr: 557;  index: 1; resNum: 3
+pre: 5;  nStr: 57;  index: 1; resNum: 3
